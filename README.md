@@ -30,13 +30,13 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,java,js,typescript,nodejs&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+**Also comfortable with**: SQL (MySql, Postgres), html, tailwindcss.
 
 
 ---
+<!--
 
 ## Projects - showcase
-<!--
 <table>
   <tr>
     <td align="center" width="33%">
@@ -101,11 +101,11 @@ Credits and references used in this README:
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/nitesh-kukreti-87565727a/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+<a href="https://leetcode.com/u/Xpmnpm6IFK/" target="blank">
+  <img src="https://coderaky.com/images/icons/leetcode.png" alt="Instagram" />
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
