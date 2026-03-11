@@ -33,8 +33,8 @@ Credits and references used in this README:
 **Also comfortable with**: SQL (MySql, Postgres), html, tailwindcss.
 
 
----
 <!--
+---
 
 ## Projects - showcase
 <table>
@@ -97,10 +97,10 @@ Credits and references used in this README:
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- 
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
-
+-->
 <a href="https://www.linkedin.com/in/nitesh-kukreti-87565727a/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
