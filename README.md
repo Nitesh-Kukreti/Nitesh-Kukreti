@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # Nitesh Kukreti
-**`Growth Lead at NextWork`** 
+   **`CONTROL what you can, ACCEPT what you can't.`** 
 
 ## About Me
 - 💻 Computer Science student focused on backend development and C++.
