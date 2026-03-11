@@ -11,19 +11,24 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐐 Maximus Soares Demo Account
+# Nitesh Kukreti
 **`Growth Lead at NextWork`** 
 
 ## About Me
+- 💻 Computer Science student focused on backend development and C++.
+- 📈 Interested in finance, trading systems, and becoming a Quant Developer.
+- 🚀 Currently building projects to improve data structures, algorithms, and system design.
+- 🌐 Learning and building full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+<!--
 - I build, ship, and tell the story in public.
 - Grew NextWorks social media to 250K+ followers in one year.
 - Help teach 145,000+ students cloud, AI, and tech skills
-
+-->
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,java,js,typescript,nodejs&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
