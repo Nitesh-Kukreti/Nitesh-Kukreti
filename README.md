@@ -5,7 +5,7 @@ Credits and references used in this README:
    https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
 2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+   thttps://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
 3) GitHub stats card:
    https://github.com/anuraghazra/github-readme-stats
@@ -28,7 +28,7 @@ Credits and references used in this README:
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,java,js,typescript,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,cpp,java,js,nextjs,typescript,nodejs&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (MySql, Postgres), html, tailwindcss.
 
@@ -104,9 +104,7 @@ Credits and references used in this README:
 <a href="https://www.linkedin.com/in/nitesh-kukreti-87565727a/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://leetcode.com/u/Xpmnpm6IFK/" target="blank">
-  <img src="https://coderaky.com/images/icons/leetcode.png" alt="Instagram" />
-</a>
+
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
