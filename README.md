@@ -101,7 +101,7 @@ Credits and references used in this README:
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 -->
-<a href="https://www.linkedin.com/in/nitesh-kukreti-87565727a/" target="blank">
+<a href="https://www.linkedin.com/in/nitesh-kukreti/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
